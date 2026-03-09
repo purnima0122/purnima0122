@@ -28,11 +28,7 @@ A financial literacy and market learning platform focused on Nepal:
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,mongodb,python,git,github,vscode" />
 </p>
 
-### GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=purnima0122&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnima0122&layout=compact&theme=tokyonight" />
-</p>
+
 <!--
 **purnima0122/purnima0122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
