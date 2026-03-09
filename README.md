@@ -1,4 +1,4 @@
-<h1 align="center"> ## Hi there 👋 I'm Purnima Bhandari</h1>
+<h1 align="center"> Hi there 👋 I'm Purnima Bhandari</h1>
 <h3 align="center">Aspiring Developer | Building Apps | Learning at my own pace</h3>
 
 - 🔭 I’m currently working on **Project Samridhha / StockLearn**
